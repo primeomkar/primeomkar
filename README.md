@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @primeomkar
+- 👋 Hi, I’m Omkarterkar
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning Data science with almabetter
 - 💞️ I’m looking to collaborate on ML projects
